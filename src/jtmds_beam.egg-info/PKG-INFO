@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: jtmds-beam
+Version: 0.0.1
+Summary: A package to handle DS methods
+Home-page: https://enter_later.com
+Author: Tennison Yu
+Author-email: tennison.yu@jumio.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://enter_later.com/bugtracker
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Example Package
+
+This is a package for JTM. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+
